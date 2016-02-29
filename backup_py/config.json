@@ -1,0 +1,12 @@
+{
+    "domain": "hogehoge.com",
+    "mysqlhost": "localhost",
+    "mysqluser": "user",
+    "mysqlpass": "pass",
+    "sendmail": "send@hogehoge.com",
+    "s3bucket": "s3://xxxxx",
+    "target": {
+        "httpd": "/var/log/httpd/",
+        "mysqld": "/var/log/mysqld/"
+    }
+}
