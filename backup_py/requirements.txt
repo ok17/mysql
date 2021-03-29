@@ -1,7 +1,7 @@
 Cheetah==2.4.1
 PIL==1.1.6
 PyYAML==3.10
-Pygments==1.4
+Pygments==2.7.4
 argparse==1.2.1
 awscli==1.2.5
 backports.ssl-match-hostname==3.4.0.2
